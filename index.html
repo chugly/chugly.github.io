@@ -30,10 +30,10 @@ layout: compress
             <header class="header">
                 <h1>chelsey + gully<span>We live in Beijing.</span></h1>
                 <nav class="links">
-                    <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
-                    <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
-                    <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
-                    <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
+                    <a href="https://www.instagram.com/jimereeno/"><i class="fa fa-instagram fa-3x"></i></a>
+                    <img src="img/authors/squelfie.jpg" alt="chelsey" style="width:50px;height:50px;">
+                    <img src="img/authors/gully_face_square.png" alt="gully" style="width:50px;height:50px;">
+                    <a href="https://www.instagram.com/xgully/"><i class="fa fa-instagram fa-3x"></i></a>
                 </nav>
             </header>
             <div class="content">
@@ -55,8 +55,10 @@ layout: compress
                             <div class="card__content">
                                 <i class="card__btn-close fa fa-times"></i>
                                 <div class="card__caption">
+                                    <p class="card__subtitle">{{ post.date | date: "%b %-d, %Y"}}</p>
                                     <h2 class="card__title">{{ post.title }}</h2>
-                                    <p class="card__subtitle">{{ post.subtitle }}</p>
+                                    <p class="card__subtitle">{{ post.subtitle}}</p>
+
                                 </div>
                                 <div class="card__copy">
                                     <div class="meta">
