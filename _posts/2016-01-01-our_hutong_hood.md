@@ -4,18 +4,15 @@ cover: 'assets/images/wudaoyingHutong.jpg'
 title: Our Hutong Neighborhood
 subtitle: "art installations, veggie market, and temples."
 date:   2016-01-01 05:00:00
-tags: test content
+tags: Beijing China
 subclass: 'post tag-test tag-content'
-categories: 'casper'
+categories: 'gully'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-
-
-### We live in a hutong
-
 *Hutong* is translated literally into English as "alley".  But unlike the alleys in the U.S., *hutongs* are neighborhoods- networks of interconnecting streets too narrow to be called a street, but just wide enough to fit a single car or perhaps only a tuk-tuk.  Hutongs are places of residence.
+
 
 #### Origin story
 

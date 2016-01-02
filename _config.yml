@@ -9,13 +9,22 @@ name: 'chelsey and gully'
 description: "We live in Beijing."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Gully'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'We like tacos.'
+nickname: gully
+bio: "I like soda."
 location: 'Beijing, China'
 url: 'http://chugly.github.io/'
-image: 'assets/images/casper.png'
+image: 'assets/images/gully_face_square.png'
+
+# Author's info
+author: 'Chelsey'
+# edit 'categories' in the front matter of every post to match this username
+nickname: casper
+bio: "I help children communicate and share their ideas. I like to swing dance, watch horror movies, draw stick figure comics, and laugh at small failures."
+location: 'Beijing, China'
+url: 'http://chugly.github.io/'
+image: 'assets/images/squelfie.jpg'
 
 short_url: 'chugly.github.io'
 #google_analytics: UA-69281367-1
