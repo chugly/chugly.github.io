@@ -1,10 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover3.jpg'
+cover: 'assets/images/cardboard.jpg'
 title:  "Hello World"
 subtitle: "Introducing our new blog"
 date:   2015-12-28 05:00:00
-tags: test content
+tags: blog Beijing China
 subclass: 'post tag-test tag-content'
 categories: 'casper'
 navigation: True

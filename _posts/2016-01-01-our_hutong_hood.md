@@ -1,7 +1,8 @@
 ---
 layout: post
-cover: 'assets/images/cover3.jpg'
-title: Our Hutong yo
+cover: 'assets/images/wudaoyingHutong.jpg'
+title: Our Hutong Neighborhood
+subtitle: "art installations, veggie market, and temples."
 date:   2016-01-01 05:00:00
 tags: test content
 subclass: 'post tag-test tag-content'

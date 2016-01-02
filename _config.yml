@@ -5,19 +5,19 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'chelsey and gully'
+description: "We live in Beijing."
 
 # Author's info
 author: 'Casper McFadden'
 # edit 'categories' in the front matter of every post to match this username
 nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+bio: 'We like tacos.'
+location: 'Beijing, China'
+url: 'http://chugly.github.io/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: 'chugly.github.io'
 #google_analytics: UA-69281367-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)

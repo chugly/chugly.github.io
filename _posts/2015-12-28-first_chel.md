@@ -1,10 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover3.jpg'
+cover: 'assets/images/chelseyShepherdF.jpg'
 title:  "Chelsey's Visit to Shepherd's Field"
 subtitle: "a day of in-service training and screenings"
 date:   2015-12-17 05:00:00
-tags: test content
+tags: work China
 subclass: 'post tag-test tag-content'
 categories: 'casper'
 navigation: True

@@ -1,10 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover3.jpg'
+cover: 'assets/images/health_examination.jpg'
 title: Health Examination
 subtitle: "a scavenger hunt of necessary (?) clinical testing"
-date:   2016-01-01 05:00:00
-tags: test content
+date:   2015-09-14 05:00:00
+tags: Beijing China health
 subclass: 'post tag-test tag-content'
 categories: 'casper'
 navigation: True
