@@ -1,87 +1,37 @@
 ---
-layout: compress
+layout: default
+title: Finding The Way Home
+cover: 'assets/images/cover1.jpg'
+class: 'home-template'
+navigation: True
+logo: 'assets/images/ghost.png'
+current: home
 ---
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ site.title }}</title>
-        <meta name="description" content="{{ site.description }}" />
-        <meta name="keywords" content="{{ site.keywords }}" />
-        <meta name="author" content="{{ site.author }}" />
-        <link rel="shortcut icon" href="img/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="css/normalize.css" />
-        <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
-        <link rel="stylesheet" type="text/css" href="css/modern-blog.min.css" />
-        <!--[if IE]>
-        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-        <script>
-        if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
-        var root = document.getElementsByTagName('html')[0];
-        root.setAttribute('class', 'ff');
-        };
-        </script>
-    </head>
-    <body class="body">
-        <div class="container">
-            <header class="header">
-                <h1>chelsey + gully<span>We live in Beijing.</span></h1>
-                <nav class="links">
-                    <a href="https://www.instagram.com/jimereeno/"><i class="fa fa-instagram fa-3x"></i></a>
-                    <img src="img/authors/squelfie.jpg" alt="chelsey" style="width:50px;height:50px;">
-                    <img src="img/authors/gully_face_square.png" alt="gully" style="width:50px;height:50px;">
-                    <a href="https://www.instagram.com/xgully/"><i class="fa fa-instagram fa-3x"></i></a>
-                </nav>
-            </header>
-            <div class="content">
-                <!-- trianglify pattern container -->
-                <div class="pattern pattern--hidden"></div>
-                <!-- cards -->
-                <div class="wrapper">
-                    {% for post in site.posts %}
-                        <div class="card">
-                            <div class="card__container card__container--closed">
-                                <svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200" preserveAspectRatio="xMidYMid slice">
-                                    <defs>
-                                    <clipPath id="{{ post.subtitle | slugify }}">
-                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
-                                </clipPath>
-                                </defs>
-                                <image clip-path="url(#{{ post.subtitle | slugify }})" width="1920" height="1200" xlink:href="{{ post.image }}"></image>
-                            </svg>
-                            <div class="card__content">
-                                <i class="card__btn-close fa fa-times"></i>
-                                <div class="card__caption">
-                                    <p class="card__subtitle">{{ post.date | date: "%b %-d, %Y"}}</p>
-                                    <h2 class="card__title">{{ post.title }}</h2>
-                                    <p class="card__subtitle">{{ post.subtitle}}</p>
+<!-- < default -->
+<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-                                </div>
-                                <div class="card__copy">
-                                    <div class="meta">
-                                        <img class="meta__avatar" src="{{ post.avatar }}" />
-                                        <span class="meta__author">{{ post.author }}</span>
-                                        <span class="meta__date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                                    </div>
-                                    {{ post.content }}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                {% endfor %}
-                <!-- /cards -->
-            </div>
+<!-- The big featured header  -->
+<header class="main-header {% if page.cover %}"
+        style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+    <nav class="main-nav overlay clearfix">
+        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        {% if page.navigation %}
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        {% endif %}
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">{{ site.name }}</h1>
+            <h2 class="page-description">{{ site.description }}</h2>
         </div>
-        <!-- /container -->
-        <!-- JS -->
-        <script src="js/vendors/trianglify.min.js"></script>
-        <script src="js/vendors/TweenMax.min.js"></script>
-        <script src="js/vendors/ScrollToPlugin.min.js"></script>
-        <script src="js/vendors/cash.min.js"></script>
-        <script src="js/card-modern-blog.min.js"></script>
-        <script src="js/modern-blog.min.js"></script>
-    </body>
-</html>
+    </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+</header>
+
+<!-- The main content area on the homepage -->
+<main id="content" class="content" role="main">
+
+    <!-- The tag below includes the post loop - partials/loop.hbs -->
+    {% include loop.html %}
+
+</main>
