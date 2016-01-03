@@ -8,7 +8,7 @@ tags: Beijing China health
 subclass: 'post tag-test tag-content'
 categories: 'casper'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/delivery_human.png'
 ---
 
 

@@ -8,7 +8,7 @@ tags: Beijing China
 subclass: 'post tag-test tag-content'
 categories: 'gully'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/delivery_human.png'
 ---
 
 *Hutong* is translated literally into English as "alley".  But unlike the alleys in the U.S., *hutongs* are neighborhoods- networks of interconnecting streets too narrow to be called a street, but just wide enough to fit a single car or perhaps only a tuk-tuk.  Hutongs are places of residence.
