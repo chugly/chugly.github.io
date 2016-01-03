@@ -6,7 +6,7 @@ date:   2015-12-17 05:00:00
 tags: work China
 subclass: 'post tag-test tag-content'
 categories: 'casper'
-navigation: True
+navigation: False
 logo: 'assets/images/delivery_human.png'
 ---
 

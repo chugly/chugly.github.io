@@ -7,7 +7,7 @@ date:   2015-12-28 05:00:00
 tags: blog Beijing China
 subclass: 'post tag-test tag-content'
 categories: 'casper'
-navigation: True
+navigation: False
 logo: 'assets/images/delivery_human.png'
 ---
 

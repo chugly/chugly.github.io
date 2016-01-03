@@ -1,12 +1,12 @@
 ---
 layout: post
-cover: 'assets/images/health_examination.jpg'
+cover: 'assets/images/med_exam_full.jpg'
 title: A scavenger hunt of clinical tests at the China Health Examination
 date:   2015-09-14 05:00:00
 tags: Beijing China health
 subclass: 'post tag-test tag-content'
 categories: 'casper'
-navigation: True
+navigation: False
 logo: 'assets/images/delivery_human.png'
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-cover: 'assets/images/wudaoyingHutong.jpg'
+cover: 'assets/images/wide_Fcity.jpg'
 title: Our Hutong Neighborhood
 date:   2016-01-01 05:00:00
 tags: Beijing China
 subclass: 'post tag-test tag-content'
 categories: 'gully'
-navigation: True
+navigation: False
 logo: 'assets/images/delivery_human.png'
 ---
 
