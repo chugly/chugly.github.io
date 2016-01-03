@@ -1,8 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/chelseyShepherdF.jpg'
-title:  "Chelsey's Visit to Shepherd's Field"
-subtitle: "a day of in-service training and screenings"
+title:  "Chelsey's Visit to Shepherd's Field Children's Village"
 date:   2015-12-17 05:00:00
 tags: work China
 subclass: 'post tag-test tag-content'
@@ -12,10 +11,7 @@ logo: 'assets/images/delivery_human.png'
 ---
 
 
-
-### Shepherd's Field Orphanage
-
-Last Thursday, I was asked to give a presentation at an orphanage located in Tianjin, China. Naomi, the woman in charge of therapy services at the facility, wanted its caregivers to learn more about how children develop language, understand that children can communicate in ways other than speaking, and to realize that older children who are minimally verbal still have wants, needs, and ideas to share.
+Last Thursday, I was asked to give a presentation at [an orphanage](http://chinaorphans.org/) located in Tianjin, China. Naomi, the woman in charge of therapy services at the facility, wanted its caregivers to learn more about how children develop language, understand that children can communicate in ways other than speaking, and to realize that older children who are minimally verbal still have wants, needs, and ideas to share.
 
 In developing this presentation, I had to first consider these important factors:
 

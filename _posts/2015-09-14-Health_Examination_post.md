@@ -1,8 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/health_examination.jpg'
-title: Health Examination
-subtitle: "a scavenger hunt of necessary (?) clinical testing"
+title: A scavenger hunt of clinical tests at the China Health Examination
 date:   2015-09-14 05:00:00
 tags: Beijing China health
 subclass: 'post tag-test tag-content'
@@ -11,9 +10,6 @@ navigation: True
 logo: 'assets/images/delivery_human.png'
 ---
 
-
-
-### First Order of Business
 
 This morning, we woke up before the 7 a.m. alarm. Our bodies are still recovering from jet lag which, as a result, is contributing to my drowsiness as I write this. 
 
@@ -27,7 +23,7 @@ A sign posted near the entrance of the health clinic warned of high customer vol
 
 *In room 204*, the healthcare worker is responsible for checking blood pressure. 
 
-*In room 114*, the healthcare worker is responsible for completing a chest x-ray. I
+*In room 114*, the healthcare worker is responsible for completing a chest x-ray.
 
 *In room 218*, the healthcare worker is responsible for…actually, I wasn’t entirely sure of the information he collected after I stood on a scale and he shouted out my heart rate as I left the room.  
 

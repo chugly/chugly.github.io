@@ -2,7 +2,6 @@
 layout: post
 cover: 'assets/images/wudaoyingHutong.jpg'
 title: Our Hutong Neighborhood
-subtitle: "art installations, veggie market, and temples."
 date:   2016-01-01 05:00:00
 tags: Beijing China
 subclass: 'post tag-test tag-content'
