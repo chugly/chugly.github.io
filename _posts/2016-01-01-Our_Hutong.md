@@ -5,9 +5,18 @@ title: Our Hutong Neighborhood
 date:   2016-01-01 05:00:00
 tags: Beijing China
 subclass: 'post tag-test tag-content'
-categories: 'gully'
 navigation: False
 logo: 'assets/images/delivery_human.png'
+author: 'Chelsey and Gully'
+nickname: both
+bio: "Michael Gully-Santiago and Chelsey Contillo met in Austin Texas.  
+   They can be found swing dancing, riding scooters and bikes, 
+   listening to tons of podcasts, reading behavioral economics books,
+   and eating copious Yunnan mushrooms.
+   <br><br>
+   The scoooter logo is 'delivery man' by Виталий Плут from the Noun Project"
+image: 'assets/images/both_of_us.jpg'
+baseurl: "/"
 ---
 
 *Hutong* is translated literally into English as "alley".  But unlike the alleys in the U.S., *hutongs* are neighborhoods- networks of interconnecting streets too narrow to be called a street, but just wide enough to fit a single car or perhaps only a tuk-tuk.  Hutongs are places of residence.

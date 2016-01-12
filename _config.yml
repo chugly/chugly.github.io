@@ -8,21 +8,8 @@ language: 'en-uk'
 name: 'chelsey and gully'
 description: "We live in Beijing."
 
-# Author's info
-author: 'Chelsey and Gully'
-# edit 'categories' in the front matter of every post to match this username
-nickname: casper
-#bio: "I help children communicate and share their ideas. I like to swing dance, watch horror movies, draw stick figure comics, and laugh at small failures."
-bio: "Michael Gully-Santiago and Chelsey Contillo met in Austin Texas.  
-	They can be found swing dancing, riding scooters and bikes, 
-	listening to tons of podcasts, reading behavioral economics books,
-	and eating copious Yunnan mushrooms.
-	<br><br>
-	The scoooter logo is 'delivery man' by Виталий Плут from the Noun Project"
-
 location: 'Beijing, China'
 url: 'http://chugly.github.io/'
-image: 'assets/images/both_of_us.jpg'
 
 short_url: 'chugly.github.io'
 #google_analytics: UA-69281367-1

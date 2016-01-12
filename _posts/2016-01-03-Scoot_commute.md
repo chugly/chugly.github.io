@@ -5,9 +5,19 @@ title: Beijing Commute
 date:   2016-01-03 05:00:00
 tags: Beijing China
 subclass: 'post tag-test tag-content'
-categories: 'gully'
 navigation: False
+categories: 'both'
 logo: 'assets/images/delivery_human.png'
+author: 'Chelsey and Gully'
+nickname: both
+bio: "Michael Gully-Santiago and Chelsey Contillo met in Austin Texas.  
+   They can be found swing dancing, riding scooters and bikes, 
+   listening to tons of podcasts, reading behavioral economics books,
+   and eating copious Yunnan mushrooms.
+   <br><br>
+   The scoooter logo is 'delivery man' by Виталий Плут from the Noun Project"
+image: 'assets/images/both_of_us.jpg'
+baseurl: "/"
 ---
 
 Even before I moved to Beijing, I considered my future commute to work. Commuting is important to me. I don't like the feeling of being rushed or not in control of my arrival time. I've never needed to take public transportation, which is a privilege I had always acknowledged, but often forgot on a day-to-day basis. Hop in my car when I need to buy some batteries from the store; attend a last minute event on the other side of town; follow through with plans despite the weather conditions. This is what I did when I owned a car. When I arrived in Beijing, I contemplated the transportation options that could cheaply and efficiently get me to work. It seemed the subway was the answer. 

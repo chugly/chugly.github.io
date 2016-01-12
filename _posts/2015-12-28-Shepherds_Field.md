@@ -5,9 +5,18 @@ title:  "Chelsey's Visit to Shepherd's Field Children's Village"
 date:   2015-12-17 05:00:00
 tags: work China
 subclass: 'post tag-test tag-content'
-categories: 'casper'
 navigation: False
 logo: 'assets/images/delivery_human.png'
+author: 'Chelsey and Gully'
+nickname: both
+bio: "Michael Gully-Santiago and Chelsey Contillo met in Austin Texas.  
+   They can be found swing dancing, riding scooters and bikes, 
+   listening to tons of podcasts, reading behavioral economics books,
+   and eating copious Yunnan mushrooms.
+   <br><br>
+   The scoooter logo is 'delivery man' by Виталий Плут from the Noun Project"
+image: 'assets/images/both_of_us.jpg'
+baseurl: "/"
 ---
 
 

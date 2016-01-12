@@ -7,6 +7,16 @@ navigation: True
 label: Author
 logo: 'assets/images/delivery_human.png'
 current: author
+author: 'Chelsey and Gully'
+nickname: both
+bio: "Michael Gully-Santiago and Chelsey Contillo met in Austin Texas.  
+   They can be found swing dancing, riding scooters and bikes, 
+   listening to tons of podcasts, reading behavioral economics books,
+   and eating copious Yunnan mushrooms.
+   <br><br>
+   The scoooter logo is 'delivery man' by Виталий Плут from the Noun Project"
+image: 'assets/images/both_of_us.jpg'
+baseurl: "/"
 ---
 <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
@@ -15,9 +25,9 @@ current: author
 
 <!-- Everything inside the #author tags pulls data from the author -->
 <!-- #author  -->
-    <header class="main-header author-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+    <header class="main-header author-head {% if page.cover %}" style="background-image: url({{ page.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
         <nav class="main-nav overlay clearfix">
-            {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+            {% if page.logo %}<a class="blog-logo" href="{{ page.baseurl }}"><img src="{{ page.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
             {% if page.navigation %}
                 <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
             {% endif %}
@@ -25,14 +35,14 @@ current: author
     </header>
 
     <section class="author-profile inner">
-        {% if site.image %}
+        {% if page.image %}
         <figure class="author-image">
-            <div class="img" style="background-image: url({{ site.baseurl }}{{ site.image }})"><span class="hidden">{{ site.author }}'s Picture</span></div>
+            <div class="img" style="background-image: url({{ page.baseurl }}{{ page.image }})"><span class="hidden">{{ page.author }}'s Picture</span></div>
         </figure>
         {% endif %}
-        <h1 class="author-title">{{ site.author }}</h1>
-        {% if site.bio %}
-            <h2 class="author-bio">{{ site.bio }}</h2>
+        <h1 class="author-title">{{ page.author }}</h1>
+        {% if page.bio %}
+            <h2 class="author-bio">{{ page.bio }}</h2>
         {% endif %}
         <div class="author-meta">
             {% if site.location %}<span class="author-location icon-location">{{ site.location }}</span>{% endif %}
