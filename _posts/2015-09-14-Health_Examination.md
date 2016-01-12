@@ -7,15 +7,10 @@ tags: Beijing China health
 subclass: 'post tag-test tag-content'
 navigation: False
 logo: 'assets/images/delivery_human.png'
-author: 'Chelsey and Gully'
-nickname: both
-bio: "Michael Gully-Santiago and Chelsey Contillo met in Austin Texas.  
-   They can be found swing dancing, riding scooters and bikes, 
-   listening to tons of podcasts, reading behavioral economics books,
-   and eating copious Yunnan mushrooms.
-   <br><br>
-   The scoooter logo is 'delivery man' by Виталий Плут from the Noun Project"
-image: 'assets/images/both_of_us.jpg'
+author: 'Chelsey'
+nickname: chels
+bio: "I help children communicate and share their ideas. I like to swing dance, watch horror movies, draw stick figure comics, and laugh at small failures."
+image: 'assets/images/squelfie.jpg'
 baseurl: "/"
 ---
 
