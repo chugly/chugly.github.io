@@ -6,6 +6,7 @@ date:   2015-12-28 05:00:00
 tags: blog Beijing China
 subclass: 'post tag-test tag-content'
 navigation: False
+categories: 'gully'
 logo: 'assets/images/delivery_human.png'
 author: 'gully'
 nickname: gully

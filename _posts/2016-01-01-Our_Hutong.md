@@ -6,6 +6,7 @@ date:   2016-01-01 05:00:00
 tags: Beijing China
 subclass: 'post tag-test tag-content'
 navigation: False
+categories: 'both'
 logo: 'assets/images/delivery_human.png'
 author: 'Chelsey and Gully'
 nickname: both

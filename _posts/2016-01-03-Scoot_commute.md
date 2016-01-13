@@ -6,7 +6,7 @@ date:   2016-01-03 05:00:00
 tags: Beijing China
 subclass: 'post tag-test tag-content'
 navigation: False
-categories: 'both'
+categories: 'chels'
 logo: 'assets/images/delivery_human.png'
 author: 'Chelsey'
 nickname: chels

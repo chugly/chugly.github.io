@@ -6,6 +6,7 @@ date:   2015-12-17 05:00:00
 tags: work China
 subclass: 'post tag-test tag-content'
 navigation: False
+categories: 'chels'
 logo: 'assets/images/delivery_human.png'
 author: 'Chelsey'
 nickname: chels

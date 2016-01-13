@@ -6,6 +6,7 @@ date:   2015-09-14 05:00:00
 tags: Beijing China health
 subclass: 'post tag-test tag-content'
 navigation: False
+categories: 'chels'
 logo: 'assets/images/delivery_human.png'
 author: 'Chelsey'
 nickname: chels
