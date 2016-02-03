@@ -15,13 +15,25 @@ image: 'assets/images/gully_face_square.png'
 baseurl: "/"
 ---
 
-Before we moved here, a big question for us was "What's the deal with the pollution?".  In a word association game, 
+In a word association game, what would you say when prompted with the word "Beijing"?  I suspect most Americans' responses would include the words "China", "Olympics", "city", and "pollution".  Pollution was among our chief concerns before moving here.  When we spoke with travellers who lived here, we would ask "What's the deal with the pollution?".  The answer depends on who you ask.  Four and a half months into our journey here, we can offer our answer to a question that we'll probably be answering for years to come.
+
+### What's the deal with the pollution?
+
+The deal is that sometimes it gets really polluted in Beijing.  There are two words to that statement that we will dissect.  First is the *somtimes* and second is the *really*.
+
+### *Sometimes*
+
+*Sometimes* means that it's not always polluted here, which is a misconception that I had, and a misconception that is probably shared among many outsiders.  When I got out of the Beijing airport and breathed the Beijing air, it reminded me of a forgettable scene from the movie *12 Monkeys*, a lesser-known early nineties Brad Pitt flick with a killer soundtrack.  The scene I have in mind is towards the end (spoiler alert), when the perpetrator of a biological terror attack opens---upon request by a customs agent---a vile of odorless, clear gas in an airport lobby.  The toxin has just silently infected him and the agent, and was now permeating the air around them.  The perp's grimmace as he quietly acknowledges the toxic air around him must have been mirrored in my own face when I surveyed the Beijing air for the first time.  *WAS IT OKAY TO BREATHE?*.  I slowly took longer and longer breaths as I became comfortable with the fact that the air was just fine.  The next morning when we woke up at our friends' place in Chaoyangmen, Beijing we saw beautiful blue skies.  What's the deal with that?
+
+Beijing is only polluted when the air is still for a few days.  When there is no *wind*, the air stagnates, and the pollution has nowhere to go.  It just builds up.  So naturally when Beijing is *windy*, the pollution gets blown away to somewhere else (sorry rest of the world), and the air is clear.  
+
+The change in wind direction and strength can be sudden.  Chelsey and I went 
+
 
 
 - What it's like here.
 	- Before we moved here
 	- The appearance of the sun
-	- 
 - Wind 
 	- The wind controls the pollution
 	- Can be sudden
