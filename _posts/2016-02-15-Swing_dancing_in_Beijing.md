@@ -14,7 +14,8 @@ bio: "I help children communicate and share their ideas. I like to swing dance, 
 image: 'assets/images/squelfie.jpg'
 baseurl: "/"
 ---
-###if you ain't got that swing!
+
+###if it ain't got that swing!
 
 My sister and I grew up taking dance classes at Mary Linick Dance Studio in Miami, Florida. It seemed like there was always a rotation of a cousin or best friend through one of our tap, jazz, or ballet classes, but we were the regulars. I think Amber still remembers the footwork from her 4th grade tap routine to Grease Lightning. My favorite dance recital costume was when I dressed up as a white duck, complete with a orange-billed feather cap. It was also tap. I remember trying to fit into that costume as a seven or eight year old and breaking the blue sequin strap that I yanked onto my shoulder in hopes it would stretch the leotard out a bit. 
 
