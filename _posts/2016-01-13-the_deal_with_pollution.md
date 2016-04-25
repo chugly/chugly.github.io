@@ -19,71 +19,42 @@ In a word association game, what would you say when prompted with the word "Beij
 
 ### What's the deal with the pollution?
 
-The deal is that sometimes it gets really polluted in Beijing.  There are two words to that statement that we will dissect.  First is the *somtimes* and second is the *really*.
+The deal is that sometimes it gets really polluted in Beijing.  There are two words to that statement that we will dissect.  First is the *sometimes* and second is the *really*.
 
 ### *Sometimes*
 
 *Sometimes* means that it's **not always polluted here**, which is a misconception that I had, and a misconception that is probably shared among many outsiders.  When I got out of the Beijing airport and breathed the Beijing air, it reminded me of [a forgettable scene from the movie 12 Monkeys](https://youtu.be/5Zht43WrCmk?t=7m55s), a lesser-known early nineties Brad Pitt flick with a killer soundtrack.  The scene I have in mind is towards the end (spoiler alert), when the perpetrator of a biological terror attack opens---upon request by a customs agent---a vile of odorless, clear gas in an airport lobby.  The toxin has just silently infected him and the agent, and was now permeating the air around them.  The perp's grimmace as he quietly acknowledges the toxic air around him must have been mirrored in my own face when I surveyed the Beijing air for the first time.  *WAS IT OKAY TO BREATHE?*.  I slowly took longer and longer breaths as I became comfortable with the fact that the air was **just fine**.  The next morning when we woke up at our friends' place in Chaoyangmen, Beijing we saw beautiful blue skies.  What's the deal with that?
 
-Beijing is only polluted when the air is still for a few days.  When there is no *wind*, the air stagnates, and the pollution has nowhere to go.  It just builds up.  So naturally when Beijing is *windy*, the pollution gets blown away to somewhere else (sorry rest of the world), and the air is clear.  
+Roughly speaking, Beijing is only polluted when the air is still for a few days.  When there is no *wind*, the air stagnates and the pollution has nowhere to go.  It just builds up.  So naturally when Beijing is *windy*, the pollution gets blown away to somewhere else (sorry rest of the world), and the air is clear.  
 
 The change in wind direction and strength can be sudden.  Chelsey and I appreciated this for the first time on a scooter ride home from the Modernista Jazz bar on a cool night in October 2015.  On the way to Modernista we lamented how bad the pollution was, and donned the conspicuous face masks on our journey.  When we left the venue a mere 90 minutes later, the air was crystal clear, and the stars were shining.  The wind had abruptly cleared the stagnant air.  Our experience was borne out in the data when we consulted our phones later.
 
 ### The *Really* part, or "Show me the data"
 
-In order to understand "really", we need to move from qualitative to quantitative, which is something I am good at: numbers.  There are a few numbers that matter here.  One is the ubiquitous [Air Quality Index](https://en.wikipedia.org/wiki/Air_quality_index), commonly called the AQI.  The AQI combines several disparate measures of air quality into a single number, just like how we can summarize the weather with a single temperature.  Unfortunately there is no international standard AQI scale.  Each country/region uses slightly different scales, making converting among them even more difficult than recalling Fahrenheit to Celsius.  
+In order to understand "really", we need to move from qualitative to quantitative, which is something I am good at: numbers.  There are a few numbers that matter here.  One is the ubiquitous [Air Quality Index](https://en.wikipedia.org/wiki/Air_quality_index), commonly called the AQI.  The AQI combines [several disparate measures](https://en.wikipedia.org/wiki/Air_quality_index) of air quality into a single number, just like how we can summarize the weather with temperature, wind chill factor, or heat index.  **Unfortunately there is no international standard AQI scale.**  Each country/region uses slightly different scales, making converting among them as pesky as recalling Fahrenheit to Celsius.  The common thread among the AQI scales is the [PM2.5](https://en.wikipedia.org/wiki/Particulates), which is the number density of particles with sizes 2.5 micron or below.
 
-Nevertheless, the scale in China is roughly 0-500 AQI.  Strictly speaking, a lower bound makes sense (zero particulates in the air), but an upper bound does not make sense, in the same way that an upper bound on temperature does not really make sense.  I suppose the upper bound on AQI could be when the air is so dense with particles that fusion can occur, or something less drastic, like our lungs are filled with sand.  The truth is that an AQI of 500 effectively means "holy shit it is really freaking polluted."  We have experienced 3 or 4 of these types of episodes, and they are *wild*.  But rare.  They get a lot of attention in the news because the photos look so dramatic.
+Nevertheless, the scale in China is roughly 0-500 AQI.  Strictly speaking, a lower bound makes sense (zero particulates in the air), but an upper bound does not make sense, in the same way that an upper bound on temperature does not really make sense.  I suppose the upper bound on AQI could be when the air is so dense with particles that fusion can occur, or something less drastic, like our lungs are filled with sand.  The truth is that an AQI of 500 effectively means "holy shit it is really freaking polluted."  But then what is the interpretation of AQI 600?  We have experienced 3 or 4 of these types of episodes, and they are *wild*.  For those not convinced by data, the AQI 500+ days look like the apocalypse has come.  Everything is gray.
 
-To put the numbers in perspective, today in Austin Texas the AQI was about 40.  Right now in Beijing, the AQI is about 100.  Looking through the last month of data for the US, I can find [instances of AQI as high as 150](https://airnow.gov/index.cfm?action=airnow.mapsarchivedetail&domainid=53&mapdate=20160212&tab=1), though again with the caveat that the scales might be slightly different, etc.  I think these are the same scales though (0-500 range).  The normal state in the US is "good" or 0-50 and green color.  The normal in Beijing seems to be closer to the 100-200 mark (orange or red).  These categories are considered "unhealthy for sensitive groups", or just plain old "unhealthy".  
+To put the numbers in perspective, a random day in Austin Texas has an AQI of about 40.  Right now in Beijing, the AQI is about 100.  Looking through data for the US, I can find [instances of AQI as high as 150](https://airnow.gov/index.cfm?action=airnow.mapsarchivedetail&domainid=53&mapdate=20160212&tab=1), though again with the caveat that the scales are slightly different.  The normal state in the US is "good" or 0-50 and green color.  The normal in Beijing seems to be closer to the 100-200 mark (orange or red).  These categories are considered "unhealthy for sensitive groups", or just plain old "unhealthy".  
 
-
-
-
-- What it's like here.
-	- Before we moved here
-	- The appearance of the sun
-- Wind 
-	- The wind controls the pollution
-	- Can be sudden
-- Tracking the pollution
-	- App
-- Protective measures
-	- Masks
-	- Air purifiers
-	- Smart airs
-	- Ozone purifier
-- Health risks
-	- Links to articles
-	- Quantifying it in terms of cigarettes
-- Quality of life
-	- Outdoor exercise
-	- Seeing the distant mountains
-	- Wearing masks
-- Public Policy
-	- What's being done
-	- What could be done
-- More information
-	- More links
+There is a great [iPhone App for monitoring the AQI](https://itunes.apple.com/us/app/china-air-quality-index/id477700080?mt=8) at hundreds of air quality monitoring locations in China.  We check this app regularly.  My real gut instinct comes from my experience looking at distant buildings from my apartment.  If I can see the China Business District (CBD) from our patio, It's a clear day.  If I can see the mountains, it's an exceptionally clear day.
 
 
+### Health impact effect size
+
+The most important question of all is, "What is the health impact associated with air pollution exposure?".  This is a controversial question, and the final word has not been written.  The [Economist published an article](http://www.economist.com/news/china/21661053-new-study-suggests-air-pollution-even-worse-thought-mapping-invisible-scourge) claiming that "breathing Beijing’s air is the equivalent of smoking almost 40 cigarettes a day".  This claim was promptly questioned by a the Beijinger blog that did some transparent back-of-the-envelope calculations that seem hard to argue with.  I had settled in the Beijinger camp until I found out that the Berkeley scientist who came up with the original 40 cigarettes/day number had actually doubled down on the claim, citing the difference in character between the PM2.5 in coal versus the PM2.5 in tar from cigarettes.  The effect size in the economist article is huge, with a purported 17% of deaths being attributable to pollution.
+
+The pollution has basically negligible *acute* side effects.  I can occasionally smell the pollution, like as if a distant fire is burning.  Chelsey has an even better sense of smell, so she can pick it out at lower AQI levels than I can.  On a few occasions I have felt the pollution like a tickle in my throat.  So unfortunately for public health, the health-related effects are only experienced in the long term, a recipe for poor decision making.  This absence of prompt feedback would be the ideal place for a [nudge](https://en.wikipedia.org/wiki/Nudge_(book)) from local health officials.  One specific nudge could be to include information about air pollution on the TVs in the subway.  After 6 months of riding the subway, only a few times have I seen any mention of PM2.5.
+
+### Personal protective equipment and exposure dose mitigation
+
+Like any environmental hazard, the health risks associated with air pollution can be mitigated with personal protective equipment (PPE).  Imagine you have a job in a NASA cleanroom.  You have to wear thick gloves, masks, and splash guards when you handle the hydrofluoric acid, or wear ear plugs when you are in a very noisy environment, or wear insulating gloves when you handle liquid nitrogen.  Most Chinese cities would be considered hazardous environments by US standards.  So if you are used to US standards, you might elect to don some PPE.
+
+The main form of PPE in Beijing is the face mask.  These take many forms, but they are similar to versions used at hospitals or NASA labs.  I am familiar with PPE from my experience working in clean rooms, but there was something strange about donning a mask in the outdoors in plain clothes.  Health is more important than vanity, and I have dealt with this inconvenient aspect of Beijing life.  I put on a mask when the AQI "looks" bad outside, which corresponds with roughly AQI >170.  This is not a recommendation, or based on anything scientific, just my personal tradeoffs in comfort and health concerns.  This magic number seems to be shared with other friends.
+
+The other major exposure dose mitigation strategy is the air purifier.  Chelsey and I found out about [a local DIY air purifier kit](http://smartairfilters.com/) that is sold at [our local fixed gear bike shop](http://www.natooke.com/).  Chelsey and I love these Smart Air filters because they cut the bullshit out of the super expensive air purifiers by simply sticking a HEPA filter in front of a circular fan.  Best of all, the Smart Air team put together detailed data about the effiency of the filters with exactly the type of [analysis](http://smartairfilters.com/en#q2) I really wanted to see.
 
 
+### Coda- Quality of life and politics
 
-
-
-
-
-
-
-
-### Health risks
-
-It has been difficult to find reliable information about the actual health risks associated with pollution.  My personal feeling has wavered on this point, and it still might.
-
-There are two main things to consider about the air pollution in Beijing. When the pollution is at its worst, it's still less than smoking a 0.2 of a cigarette, assuming worst-case all day exposure.  Normal prevention like being inside, having air purifiers, and wearing masks gets that exposure to negligible levels.  f you're a cigarette smoker, the Beijing exposure is irrelevant.  The other main thing to consider is that the pollution is highly variable.  Most days you don't have to wear a mask or run air purifiers.  I wear a mask when the AQI reading is greater than 200, which is probably 10% of the time.  Today is beautiful clear blue skies, with AQI of 25, probably comparable to or lower than many American cities today.  I can see the distant mountains in the reflection of my bookcase towards the northwest.  But the pollution is definitely palpable when it's at its worst.  The visibility is low- like an especially foggy day.  Chelsey complains about the smell, but I don't notice it (she is a 'supertaster' apparently).  I'm usually wearing masks when it's bad enough to be able to smell it, though.  When I intentionally tried to smell it the other day by peeling off my mask and taking a couple big whiffs, it just smelled like a tinge of campfire or coal burning-- most of the pollution comes from coal factories that produce energy at low cost.
-
-### Politics
-As for the politics of it all, my buddy Chase cited a statistic that the US generates 3 times the amount of green house gas emissions as China *per capita*.  Well, when you divide by a big number, you usually get a small number, and not all energy is created equal.  So I have less informed things to say on the politics.  But the palpable pollution definitely makes me internalize my own contribution to pollution.  The PM2.5 measurement of 500 is what it took the factories to produce enough energy and goods to provide the services that I consume every day.  That PM 2.5 is just usually blown away to "somewhere else", like the upper atmosphere.  But there is no "somewhere else" in the atmosphere.  When the wind is still, that stuff just hangs around for a while, so you can notice it.  
-
-The other thing I think about a lot in regards to the pollution is that China happens to be going through its industrial revolution and Gilded Age now instead of the 1880s.  Americans' collective tolerance for pollution has gone down as our wealth and access to technology has increased.  China doesn't have that luxury yet.  But they will.  
+The Beijing air pollution degrades our quality of life.  We cannot run outside as much as we would like to, and I can't reliably plan a bicycling trip in the nearby mountains.  Even just getting some sunshine is slightly less regular that it otherwise would be.  There is much more to be said about the politics of pollution, but it will have to wait for another rainy or polluted day.  
