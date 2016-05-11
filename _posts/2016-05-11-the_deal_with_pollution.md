@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/pollution.jpg'
 title:  "Overview of Beijing Pollution"
-date:   2016-01-13 05:00:00
+date:   2016-05-11 05:00:00
 tags: Health Beijing China
 subclass: 'post tag-test tag-content'
 navigation: False
@@ -15,7 +15,7 @@ image: 'assets/images/gully_face_square.png'
 baseurl: "/"
 ---
 
-In a word association game, what would you say when prompted with the word "Beijing"?  I suspect most Americans' responses would include the words "China", "Olympics", "city", and "pollution".  Pollution was among our chief concerns before moving here.  When we spoke with travellers who lived here, we would ask "What's the deal with the pollution?".  The answer depends on who you ask.  Six months into our journey here, we can offer our answer to a question that we'll probably be answering for years to come.
+In a word association game, what would you say when prompted with the word "Beijing"?  I suspect most Americans' responses would include the words "China", "Olympics", "city", and "pollution".  Air pollution was among our chief concerns before moving here.  When we spoke with travellers who lived here, we would ask "What's the deal with the pollution?".  The answer depends on who you ask.  Six months into our journey here, we can offer our answer to a question that we'll probably be answering for years to come.
 
 ### What's the deal with the pollution?
 
