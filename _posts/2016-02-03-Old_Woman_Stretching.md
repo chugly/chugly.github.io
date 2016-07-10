@@ -31,4 +31,7 @@ So thank you, old woman who stretches. You have given me ample material to daydr
 >Stretch the Achille's tendon.  
 >Scarf keeps hair in place.  
  
+**Update**  
+I’ve seen this woman so regularly on my commute that I was able to briefly capture her in this video:
+<iframe width="420" height="315" src="https://www.youtube.com/embed/I-dcixlVGBY" frameborder="0" allowfullscreen></iframe>
 
